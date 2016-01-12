@@ -343,7 +343,7 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 ```bash
 # lets install the bot
 cd $HOME
-git clone https://github.com/sogandmusic/sogbot.git
+git clone https://github.com/sogandmusic/sogbot1.git
 cd sogbot1
 chmod +x launch.sh
 ./launch.sh install
