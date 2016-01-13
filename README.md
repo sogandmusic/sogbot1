@@ -30,7 +30,7 @@
 >>>
 >>>_Only works in realms But sudo users can use it everywhere_
 
-###Add or remove groups
+###دستور ادد کردن و ریمو کردن ربات از گروه
 >/add
 >>This command will add that group
 >
