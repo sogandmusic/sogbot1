@@ -327,7 +327,7 @@ _Sudo users and admins can also use this commands in all groups_
 >/loggroup [group_id]
 >>/loggroup 123456789
 
-### Join
+### ورود از ربات با دستور جوین
 >/join [group_id]
 >> THis command will add user in [group_id]
 
