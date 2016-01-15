@@ -8,10 +8,10 @@
 * **Global ban**
 * **Broadcast to all groups**
 * **Group link**
-* **Kick,ban and unban by reply**
+* **کیک و بن و انبن با ریپلی**
 * **Groups,ban and global bans list**
 * **Logging anything that happens in group !**
-* **Invite by username**
+* **ادد کردن با یوزر نیم**
 * **Group administration in bots private**
 * **Only mods,owner and admin can add bots**
 * **قفل متن عربی**
